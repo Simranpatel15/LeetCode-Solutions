@@ -4,7 +4,7 @@ class Solution {
         //           i
         //                 k
         //nums2 = 2, 5, 6      n = 3
-        //              j
+        //              j                                     time : O(m+n)  space: O(1)
 
         int i = m - 1;
         int j = n-1;
