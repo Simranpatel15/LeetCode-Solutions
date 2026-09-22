@@ -26,5 +26,5 @@ class Solution {
         }
         return prev;
     }
-    
+                                                         // T: O(n)  S: O(1)
 }
